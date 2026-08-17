@@ -152,8 +152,6 @@ jobs:
             node_modules
             ~/.yarn/cache
           key: ${{ runner.os }}-deps-${{ hashFiles('**/yarn.lock') }}
-          restore-keys: |
-            ${{ runner.os }}-deps-
 
       - name: Check if only config changed
         id: check-changes
