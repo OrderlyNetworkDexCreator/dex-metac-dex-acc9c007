@@ -33,7 +33,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@metacdex",
   "VITE_SEO_THEME_COLOR": "#000000",
-  "VITE_SEO_KEYWORDS": "dex, crypto, currency, investment, MTCA",
+  "VITE_SEO_KEYWORDS": "dex, cex, crypto, currency, investment, MTCA",
   "VITE_AVAILABLE_LANGUAGES": "uk,ru,vi,ja,tc,pl,fr,ko,zh,pt,de,es,en",
   "VITE_USE_CUSTOM_PNL_POSTERS": "false",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "0",
