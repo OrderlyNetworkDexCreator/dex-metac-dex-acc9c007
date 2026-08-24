@@ -58,12 +58,12 @@
   --oui-gradient-warning-end: 255 209 70;
   --oui-gradient-neutral-start: 27 29 24;
   --oui-gradient-neutral-end: 38 41 46;
-  --oui-rounded-sm: 2px;
-  --oui-rounded: 4px;
-  --oui-rounded-md: 6px;
-  --oui-rounded-lg: 8px;
-  --oui-rounded-xl: 12px;
-  --oui-rounded-2xl: 16px;
+  --oui-rounded-sm: 3px;
+  --oui-rounded: 5px;
+  --oui-rounded-md: 7px;
+  --oui-rounded-lg: 9px;
+  --oui-rounded-xl: 14px;
+  --oui-rounded-2xl: 18px;
   --oui-rounded-full: 9999px;
   --oui-spacing-xs: 20rem;
   --oui-spacing-sm: 22.5rem;
