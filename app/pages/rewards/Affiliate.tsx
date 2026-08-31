@@ -1,14 +1,16 @@
 import { Helmet } from "react-helmet-async";
-import { generatePageTitle } from "@/utils/utils";
 import { Dashboard, ReferralProvider } from "@orderly.network/affiliate";
+import { resolveReferralLinkUrl } from "@/utils/referral-url";
 import { getRuntimeConfig } from "@/utils/runtime-config";
+import { generatePageTitle } from "@/utils/utils";
 
 export default function RewardsAffiliate() {
   const brokerName = getRuntimeConfig("VITE_ORDERLY_BROKER_NAME");
-  const referralLinkUrl =
-    typeof window !== "undefined"
-      ? window.location.origin
-      : "https://orderly.network";
+  const referralLinkUrl = resolveReferralLinkUrl({
+    siteUrl: getRuntimeConfig("VITE_SEO_SITE_URL"),
+    origin: typeof window !== "undefined" ? window.location.origin : undefined,
+    baseUrl: import.meta.env.BASE_URL,
+  });
 
   return (
     <>
