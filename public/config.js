@@ -1,7 +1,7 @@
 window.__RUNTIME_CONFIG__ = {
   "VITE_DEPLOYMENT_ENV": "mainnet",
   "VITE_ORDERLY_BROKER_ID": "metacdex",
-  "VITE_ORDERLY_BROKER_NAME": "Metac DEX",
+  "VITE_ORDERLY_BROKER_NAME": "Metac Dex",
   "VITE_BROKER_EOA_ADDRESS": "0x1bfd6fef6ab7e3e5b01a25970586d1247142aa4d",
   "VITE_DISABLE_MAINNET": "false",
   "VITE_DISABLE_TESTNET": "true",
@@ -15,7 +15,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_DISABLE_EVM_WALLETS": "false",
   "VITE_DISABLE_SOLANA_WALLETS": "false",
   "VITE_WALLETCONNECT_PROJECT_ID": "397bf5a7abe6d25a50502f19d6624808",
-  "VITE_APP_NAME": "Metac DEX",
+  "VITE_APP_NAME": "Metac Dex",
   "VITE_APP_DESCRIPTION": "metac.dex\r\nmerkeziyetsiz güvenli borsa",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
