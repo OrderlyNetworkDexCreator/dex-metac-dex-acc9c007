@@ -1,8 +1,8 @@
 :root {
   --oui-font-family: 'Manrope', sans-serif;
-  --oui-color-primary: 176 132 233;
-  --oui-color-primary-light: 213 190 244;
-  --oui-color-primary-darken: 137 76 209;
+  --oui-color-primary: 65 191 48;
+  --oui-color-primary-light: 0 255 0;
+  --oui-color-primary-darken: 255 0 255;
   --oui-color-primary-contrast: 255 255 255;
   --oui-color-link: 189 107 237;
   --oui-color-link-light: 217 152 250;
