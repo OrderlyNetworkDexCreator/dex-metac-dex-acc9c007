@@ -52,7 +52,7 @@
     "react-router-dom": "^7.1.3",
     "stream-browserify": "^3.0.0",
     "wagmi": "^2.15.4",
-    "woofi-swap-widget-kit": "^0.0.47",
+    "woofi-swap-widget-kit": "^0.0.51",
     "zod": "4.4.3"
   },
   "devDependencies": {
