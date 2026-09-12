@@ -28,7 +28,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/mtcmetac",
   "VITE_SEO_SITE_NAME": "My Dex",
   "VITE_SEO_SITE_DESCRIPTION": "Metac Dex is a high-speed decentralized exchange powered by Orderly Network. Trade BTC, ETH, and crypto perpetuals with deep liquidity and low fees directly from your Web3 wallet.",
-  "VITE_SEO_SITE_URL": "https://metac-dex.com",
+  "VITE_SEO_SITE_URL": "https://metac-hex.store",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@handle",
